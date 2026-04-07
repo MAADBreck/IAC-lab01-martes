@@ -2,3 +2,5 @@
 
 Tenemos codigo de una aplicacion web, 
 Se compone por un archivo HTML que tiene como contenido: WEB01
+
+Publicar esta web, especificamente una sola copia como primera instancia
